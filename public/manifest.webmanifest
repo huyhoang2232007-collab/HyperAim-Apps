@@ -1,0 +1,23 @@
+{
+  "name": "AimHead HyperApp Pro",
+  "short_name": "AimHead",
+  "description": "Professional Gaming Optimization Tool",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#00FF88",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/aimhead/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/aimhead/512/512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
